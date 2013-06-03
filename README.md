@@ -51,3 +51,7 @@ This can be against YouTube's ToS, unfortunately. If you do this, you can only e
 developers.google.com/youtube/terms, Section 2 (Prohibitions), 10. access any portion of any YouTube audiovisual content by any means other than use of a YouTube player or other video player expressly authorized by YouTube; #7 and #8 might also be relevant
 I had contacted the  YouTube API team a while back as well to ask if it would be ok for me to parse the video URL out myself; this is a quote from the reply I got: "The only mechanism supported is the iframe embed. Raw stream access is not supported by our ToS other than the low res RTSP streams we provide for feature phones"
 So use it on your own risk. All that I can guarantee is it works well now, and can't promise for future reference.
+
+
+Reference:
+1.https://github.com/larcus94/LBYouTubeView
