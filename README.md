@@ -50,4 +50,4 @@ So use it on your own risk. All that I can guarantee is it works well now, and c
 
 
 Reference:
-1.https://github.com/larcus94/LBYouTubeView
+1.Larcus's LBYouTubeView
