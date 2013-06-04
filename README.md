@@ -1,8 +1,4 @@
-Shares
-======
-
-Shared with public. Contains sample codes
-
+Play youtube videos directly on iPhone using MPMoviePlayer
 
 
 ---------- IOSYoutubePlayer
@@ -45,7 +41,7 @@ IOSYoutubePlayer requires iOS 4 or later and is compatible with ARC environment.
 License
 IOSYoutubePlayer is licensed under the MIT License.
 
-ALERT!! > To Be Noted
+WARNING!! > To Be Noted
 
 This can be against YouTube's ToS, unfortunately. If you do this, you can only expect your app to work for as long as YouTube is unaware of what you are doing. From docs,
 developers.google.com/youtube/terms, Section 2 (Prohibitions), 10. access any portion of any YouTube audiovisual content by any means other than use of a YouTube player or other video player expressly authorized by YouTube; #7 and #8 might also be relevant
